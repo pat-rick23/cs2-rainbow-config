@@ -1,0 +1,35 @@
+"lang"
+{
+"Language" "English"
+"Tokens"
+{
+
+	"SETTINGSMENU"		"[SETTINGS MENU] \n"	
+	"TXTMENU2"			"[TXT MENU] \n [2]"
+	"MS3"          		"LMFAOO \n "
+	"MS4"          		"♿️ \n "
+	"MS5"          		"? \n "
+	"MS6"          		"neverlose.cc \n "
+	"MS7"          		"smoked. \n"
+	"MS8"          		"¯\_(ツ)_/¯ \n "
+	
+	"TXTMENU1"			 "[TXT MENU] \n"
+	"MENU2_MS2"          "GRIFFING \n "
+	"MENU2_MS3"          "thedud \n "
+	"MENU2_MS4"          "how do you lose that \n "
+	"MENU2_MS5"          "buh \n "
+	"MENU2_MS6"          "bird ambience enjoyer \n "
+	"MENU2_MS7"          "sponge \n "
+	"MENU2_MS8"          "PLACEHOLDER_MS8 \n "
+	
+	"SETTINGS_IDLE"        "IDLE \n TOGGLE"
+	"SETTINGS_S3"          "CALM AMBIENCE \n (SV_CHEATS 1)"
+	"SETTINGS_S4"          "SILLYFELLA MODE \n TOGGLE"
+	"SETTINGS_S5"          "PLAYTIME \n TOGGLE"
+	"SETTINGS_S6"          "RGB\nOFF"
+	"SETTINGS_S7"          "RGB \n HUD"
+	"SETTINGS_S8"          "RGB \n ALL"
+	
+	
+
+}
